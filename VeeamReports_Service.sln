@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeeamReports_Service", "VeeamReports_Service\VeeamReports_Service.csproj", "{E58DBBB1-B34C-4195-B536-044A00565FFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E58DBBB1-B34C-4195-B536-044A00565FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58DBBB1-B34C-4195-B536-044A00565FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58DBBB1-B34C-4195-B536-044A00565FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58DBBB1-B34C-4195-B536-044A00565FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
